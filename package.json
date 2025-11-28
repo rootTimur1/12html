@@ -1,0 +1,23 @@
+{
+  "name": "12html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "build": "mkdir -p public && cp ./views/*.html ./public/",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rootTimur1/12html.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rootTimur1/12html/issues"
+  },
+  "homepage": "https://github.com/rootTimur1/12html#readme"
+}
